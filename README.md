@@ -1,4 +1,4 @@
-## Personal Portfolio Website
+## Portfolio Website – Frontend Practice Project
 
 A modern and responsive personal portfolio website built for practice and demonstration purposes. This project showcases frontend design skills through a clean user interface and multiple website sections.
 
